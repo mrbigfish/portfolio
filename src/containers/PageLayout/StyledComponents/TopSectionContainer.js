@@ -6,7 +6,7 @@ const TopSectionContainer = styled.div`
   display: block;
   background-image: url(${img});
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   background-position: center;
   width: 93%;
   margin-right: auto;

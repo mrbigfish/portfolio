@@ -24,7 +24,7 @@ const TopSection = () => (
     <TopSectionContainer>
         <TitleContainer>
             <TitlePicture>
-                <Image src={pic} size='small' verticalAlign='middle' />
+                <Image fluid src={pic} size='small' verticalAlign='middle' />
             </TitlePicture>
             <TitleSection>
                 <Header as='h1' inverted color='black'>
